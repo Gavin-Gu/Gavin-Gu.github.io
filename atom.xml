@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-16T15:22:16.999Z</updated>
+  <updated>2016-11-16T15:24:54.051Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="http://yoursite.com/2016/11/16/20161116-%E5%BC%80%E7%AF%87%EF%BC%9A%E6%B3%A2%E6%8A%98%E4%B8%AD%E5%BB%BA%E7%AB%99/"/>
     <id>http://yoursite.com/2016/11/16/20161116-开篇：波折中建站/</id>
     <published>2016-11-16T14:59:01.000Z</published>
-    <updated>2016-11-16T15:22:16.999Z</updated>
+    <updated>2016-11-16T15:24:54.051Z</updated>
     
-    <content type="html"><![CDATA[<p>#20161116-开篇：波折中建站<br>一直有学习IT、励志成为一名码农的愿望，但是最近终于下定决心开始行动了。</p>
+    <content type="html"><![CDATA[<p>一直有学习IT、励志成为一名码农的愿望，但是最近终于下定决心开始行动了。</p>
 <p>##2016.11.12<br>不加班，拿出半天时间认真研究了下知乎上关于程序员入门的一些建议，决定以python为入门语言，下一步是C#(之前有自学C的基础，二级水平)</p>
 <p>##2016.11.13<br>建议中提到一个程序员应该在学习过程中有自己的博客，搜了下知乎决定使用Github，但是今天公司网不顺，下载GIT这一步就失败……</p>
 <p>##2016.11.14<br>下载并成功安装GIT。使用阮一峰方法搭建失败，应该是文章太久的缘故。再查，尝试使用Hexo搭建，下载并安装Node.js、Hexo，过程巨慢，挂了一晚机终于搞定。</p>
@@ -32,8 +32,9 @@
     
     <summary type="html">
     
-      &lt;p&gt;#20161116-开篇：波折中建站&lt;br&gt;一直有学习IT、励志成为一名码农的愿望，但是最近终于下定决心开始行动了。&lt;/p&gt;
-&lt;p&gt;##2016.11.12&lt;br&gt;不加班，拿出半天时间认真研究了下知乎上关于程序员入门的一些建议，决定以python为入门语言，下一步是C#(之
+      &lt;p&gt;一直有学习IT、励志成为一名码农的愿望，但是最近终于下定决心开始行动了。&lt;/p&gt;
+&lt;p&gt;##2016.11.12&lt;br&gt;不加班，拿出半天时间认真研究了下知乎上关于程序员入门的一些建议，决定以python为入门语言，下一步是C#(之前有自学C的基础，二级水平)&lt;/p&gt;
+&lt;p&gt;
     
     </summary>
     
