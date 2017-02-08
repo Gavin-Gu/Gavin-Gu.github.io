@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2016-11-16T15:24:54.051Z</updated>
+  <updated>2017-02-08T10:58:45.584Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20170228-断篇：你需要认真记录</title>
+    <link href="http://yoursite.com/2017/02/08/20170228-%E6%96%AD%E7%AF%87%EF%BC%9A%E4%BD%A0%E9%9C%80%E8%A6%81%E8%AE%A4%E7%9C%9F%E8%AE%B0%E5%BD%95/"/>
+    <id>http://yoursite.com/2017/02/08/20170228-断篇：你需要认真记录/</id>
+    <published>2017-02-08T10:58:23.000Z</published>
+    <updated>2017-02-08T10:58:45.584Z</updated>
+    
+    <content type="html"><![CDATA[<p>GITHUB建站后工作陷入疯狂的加班状态，一直到过年才能喘息。学习IT的行动被打断后，之前收集的信息以及GITHUB使用的方法已经在脑海模糊。看来真的需要在这里详细记录每一次的行动和收获，才能在碎片化的学习过程中不反复重来。<br>明天又要出差，然后是10多天的赶图阶段，再往后还有中级考试……今天先把下一步目标定下吧！</p>
+<p>##记录GITHUB的使用方法<br>单独立文，不断更新，可以先记录简单的上传、更新等操作方法，后续再不断完善高阶进程。</p>
+<p>##明确IT学习路线<br>重新读收藏夹内知乎的若干学习编程指南并进行整合，明确到底是从python还是C入手，使用哪几个教程，是否需要买书（买了是否会看要想清楚）。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;GITHUB建站后工作陷入疯狂的加班状态，一直到过年才能喘息。学习IT的行动被打断后，之前收集的信息以及GITHUB使用的方法已经在脑海模糊。看来真的需要在这里详细记录每一次的行动和收获，才能在碎片化的学习过程中不反复重来。&lt;br&gt;明天又要出差，然后是10多天的赶图阶段，再
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>20161116-开篇：波折中建站</title>
